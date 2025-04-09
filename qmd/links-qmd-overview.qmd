@@ -1,0 +1,52 @@
+## 2025-04-09 -- daraviz one
+## Links to illustrate Quarto
+## Ilya Kashnitsky, ilya.kashnitsky@gmail.com
+---
+
+
+## R and the helpful FOSS universe
+
+### Big Book of R
+https://www.bigbookofr.com/010-start_here
+
+### Epiverse
+https://www.linkedin.com/posts/adam-kucharski-1a1b0225b_new-epiverse-tools-for-outbreak-analytics-activity-7302261324363759616-iOTH
+
+### Pharma uptake of R
+https://www.linkedin.com/posts/philip-bowsher-67151015_rinpharma-pharmaverse-activity-7290067341793497088-CZCk
+
+### Useful links
+https://github.com/ikashnitsky/dataviz-art-skill?tab=readme-ov-file#useful-links
+
+
+## Quarto
+
+### Main website
+https://quarto.org
+
+### Extensive documentation
+https://quarto.org/docs
+
+### Various Quarto extensions
+https://quarto.org/docs/extensions
+
+### easily embed various content in your html docs
+https://github.com/coatless-quarto/embedio
+
+
+### closeread -- scrollitelling
+https://closeread.dev
+
+### The recent Posit Closeread contest 
+https://posit.co/blog/closeread-prize-winners
+
+
+
+
+## bonus
+
+### Early experience using LLM packages in R
+https://drmowinckels.io/blog/2025/ollama
+
+### Positron
+https://positron.posit.co
