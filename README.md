@@ -19,15 +19,7 @@ The course aims to empower the participants with the flexibility that the R+tidy
 - Basic familiarity with R, consider [RStudio Primers](https://rstudio.cloud/learn/primers)
 
 
-# [slides]: https://ikashnitsky.github.io/dataviz-bssd/slides/slides-dataviz-bssd.html
-
-
-# Links to submit in-class assignments
-- Ugly `ggplot2` theme -- https://bit.ly/bssd24-ugly (day 2)
-- Any plot with own data -- https://bit.ly/bssd24-own (day 3)
-- Geocoding -- https://bit.ly/bssd24-geocoding (day 4, in class)
-- Maps -- https://bit.ly/bssd24-maps (day 4)
-- Challenge -- https://bit.ly/bssd24-challenge (day 5)
+# [slides]: https://ikashnitsky.github.io/dataviz-one/slides/slides-dataviz-one.html
 
 
 
