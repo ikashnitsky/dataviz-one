@@ -15,7 +15,7 @@ The course aims to empower the participants with the flexibility that the R+tidy
 - Basic familiarity with R, consider [RStudio Primers](https://rstudio.cloud/learn/primers)
 
 
-# [slides]: https://ikashnitsky.github.io/dataviz-one/slides/slides-dataviz-one.html
+# [slides]: https://ikashnitsky.github.io/dataviz-one/qmd/slides-dataviz-one.html
 
 
 
