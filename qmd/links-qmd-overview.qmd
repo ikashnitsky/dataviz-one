@@ -6,17 +6,25 @@
 
 ## R and the helpful FOSS universe
 
-### Big Book of R
-https://www.bigbookofr.com/010-start_here
 
-### Epiverse
+### tidyverse
+https://tidyverse.org/
+
+### fastverse
+https://fastverse.org/fastverse/
+
+### epiverse
+https://epiverse-trace.r-universe.dev/builds
+
 https://www.linkedin.com/posts/adam-kucharski-1a1b0225b_new-epiverse-tools-for-outbreak-analytics-activity-7302261324363759616-iOTH
 
-### Pharma uptake of R
-https://www.linkedin.com/posts/philip-bowsher-67151015_rinpharma-pharmaverse-activity-7290067341793497088-CZCk
+### pharmaverse
+https://pharmaverse.org
 
-### Useful links
-https://github.com/ikashnitsky/dataviz-art-skill?tab=readme-ov-file#useful-links
+https://pharmaverse.github.io/blog/posts/2026-03-29-meet-dataviewr-the/meet-dataviewr-the-view-you-always-wanted.html
+
+
+
 
 
 ## Quarto
@@ -30,23 +38,71 @@ https://quarto.org/docs
 ### Various Quarto extensions
 https://quarto.org/docs/extensions
 
-### easily embed various content in your html docs
-https://github.com/coatless-quarto/embedio
+### Quarto Extensions Registry 
+https://m.canouil.dev/quarto-extensions/
+
+### Quarto Wizard
+https://quarto.org/docs/blog/posts/2025-10-20-quarto-wizard-1-0-0
+
 
 
 ### closeread -- scrollitelling
 https://closeread.dev
 
-### The recent Posit Closeread contest 
+### Posit Closeread contest 
 https://posit.co/blog/closeread-prize-winners
 
+- Ansgar Wolsing's [World Population Flags](https://bydata.github.io/population-flags) 
 
 
+## FOSS
 
-## bonus
+* A beautiful post on the importance of reproducibility by Sara Weston -- <https://www.linkedin.com/posts/sara-weston-phd_early-in-my-postdoc-i-built-an-analysis-share-7444944983415197697--1mO>
+* David Robinson's RStudio Conference 2019 talk on the immense benefits of being open and sharing stuff freely -- <https://posit.co/resources/videos/the-unreasonable-effectiveness-of-public-work> 
+* A great discussion of how AI coding redefined the unspoken agreement between the actors in the Opensouce world -- <https://turso.tech/blog/what-happens-with-oss-in-the-age-of-ai>
 
-### Early experience using LLM packages in R
-https://drmowinckels.io/blog/2025/ollama
+
+## LLMs
+
+### Large Language Model tools for R
+https://luisdva.github.io/llmsr-book
+
+* April saw a breakthrough in locally run AI models -- the release of Google's Gemma 4 open source family of models. They are compact enough to be run on laptops and even top smartphones and powerful enough to be actually useful in agentic AI orchestration. Here's an opinion from a brilliant R developer Kyle Walker -- <https://www.linkedin.com/posts/walkerke_all-the-hype-is-around-what-anthropic-openai-share-7450161870642094080-zC0T>
+* AI systems are relentless. And this is not only good. Basically, they structurally have no concept of "good enough". And this is one reason why they need a human, lazy and mortal, wishing to finalize this damn project "before weekend" to keep them in check. A brilliant essay by Bryan Cantrill -- <https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost>
+* You probably saw the news that Posit launched their own AI service now available in RStudio (alas, subscription based). Here is a screencast from Hadley Wickham showcasing the power of this new tool to explore a dataset -- <https://youtu.be/N_oT_8xVRXg?si=4NzZO-kHSiPs9PWI> (and just a reminder that in Posit you can have AI assistants without a Posit AI subscription)
+* Databot -- Following the previous bullet point, here's a new Positron/VScode extension specifically focused on helping you to explore datasets -- <https://open-vsx.org/extension/posit/databot>
+* Hard Fork — not just R, but extremely relevant to anyone trying to stay synced with the development of technology. It's a podcast run by two prominent journalists. For example, the last episode discussed not the future but already the lived reality where AI agents write all of the code previously designed and typed in by humans, and how this changes the landscape of programming. Check the podcast on any streaming platform, including YouTube where sometimes the video is also useful 
+
+
+## SQL
+
+## orbital
+* {orbital} -- a new development in the world of data science led by Posit -- translate model creation from R or python to bare SQL and train the models right at the database. This one is just to observe and follow <https://www.linkedin.com/posts/hadleywickham_orbital-is-a-such-tool-technology-build-share-7438300413973651456-RFpz>
+* {ggsql} -- https://ggsql.org/
+
+
+## Positron
 
 ### Positron
 https://positron.posit.co
+
+### explainer from the developer of Positron
+https://www.linkedin.com/posts/your-tools-shape-your-thinking-thats-the-ugcPost-7447277532787314688-YFGK
+
+## transition
+* The transition from RStudio to Positron has lots of quirks. Andrew Heiss recently showcased many handy tools that helped him modernize his workflows -- <https://www.linkedin.com/feed/update/urn:li:activity:7429906310151970816>
+
+
+## Resources
+
+### ggplot2 extensions gallery
+https://exts.ggplot2.tidyverse.org/gallery/
+
+### Big Book of R
+https://www.bigbookofr.com/010-start_here
+
+### Curated collection of useful links
+https://github.com/ikashnitsky/dataviz-art-skill?tab=readme-ov-file#useful-links
+
+### R package whitelist
+https://ikashnitsky.phd/x/dev/r-pkg-whitelist.html#summary-stats-for-the-whitelist
